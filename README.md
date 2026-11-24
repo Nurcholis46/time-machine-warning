@@ -8,7 +8,7 @@ One line, at most 120 characters: the funniest warning label for a time machine.
 
 ## The entry
 
-**"WARNING: Do not kill your grandfather. It voids your warranty, your existence, and this machine's resale value."** — the grandfather paradox, delivered with a straight face: the warning escalates from warranty to existence and lands on the mundane resale value, so the laugh hits in the last few words. Real hazard, real deadpan, no explanation of the joke.
+**"WARNING: Do not kill your grandfather. It voids your warranty, your existence, and this time machine's resale value."** — the grandfather paradox, delivered with a straight face: the warning escalates from warranty to existence and lands on the mundane resale value, so the laugh hits in the last few words. Real hazard, real deadpan, no explanation of the joke.
 
 ## How it works
 
